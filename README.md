@@ -101,7 +101,7 @@ The dataset contains historical healthcare-related records used for analysis and
 Add your Streamlit deployment URL here:
 
 ```text
-https://your-streamlit-app-url.streamlit.app---
+https://healthcare-forecasting-dashboard.streamlit.app/
 ```
 
 ## 📹 Project Demo Video
@@ -109,7 +109,7 @@ https://your-streamlit-app-url.streamlit.app---
 Add your YouTube video URL here:
 
 ```text
-https://youtube.com/your-video-link---
+https://youtu.be/HwQDSi8OAEk?si=YGfgBadCATBfrwdq
 ```
 
 ## 👩‍💻 Developer
